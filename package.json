@@ -1,0 +1,13 @@
+{
+  "name": "t-movie-seat-booking",
+  "version": "1.0.0",
+  "description": "Display movie choices and seats in a theater to select from in order to purchase tickets",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
